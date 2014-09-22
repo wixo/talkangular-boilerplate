@@ -14,7 +14,7 @@
     "underscore": "~1.5.2",
     "jquery": "~2.1.0",
     "talkangular": "*",
-    "google-code-prettify-lite": "*"
+    "wx-google-code-prettify-lite": "*"
   },
   "devDependencies": {
     "angular-mocks": "~1.2.0",
