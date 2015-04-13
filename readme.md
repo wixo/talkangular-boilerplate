@@ -1,16 +1,37 @@
 Talkangular Boilerplate
 =======================
-WIP
+
 Boilerplate for [Talkangular](https://github.com/wixo/talkangular)
+
+Examples
+========
+
+1. https://limajs-goodparts.herokuapp.com/
+2. https://limajs-babeljs.herokuapp.com/
 
 Installation
 ============
 
-Clone this repo and npm install && bower install
+1. Clone this repo and npm install && bower install
 
-Some minor caveat, rename your css files with a .less extension so they can be concat and minified by grunt (grunt-recess bug)
+2. Run the Grunt server while adding your slides to index.html
+```javascript
+grunt server
+```
 
-Add your slides and enjoy
+3. Build the project
+```javascript
+grunt build
+```
+
+4. Upload the dist folder to a web server
+
+5. Profit
+
++ Optional you can preview the dist folder after building it
+```javascript
+grunt server:dist
+```
 
 TODO
 ====
