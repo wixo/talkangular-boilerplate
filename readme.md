@@ -1,5 +1,5 @@
-Talkangular Boilerplate
-=======================
+Talkangular Boilerplate v0.0.1
+==============================
 
 Boilerplate for [Talkangular](https://github.com/wixo/talkangular)
 
