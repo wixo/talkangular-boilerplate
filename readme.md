@@ -29,9 +29,9 @@ Installation
 5. Profit
 
 + Optional you can preview the dist folder after building it
-  ```javascript
-  grunt server:dist
-  ```
+```javascript
+grunt server:dist
+```
 
 TODO
 ====
